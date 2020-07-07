@@ -28,3 +28,12 @@ c=len(a)
 d=len(b)
 print("结果：",c+d)
 #wqdeqwedqwedq
+q="hh"
+print(q)
+a=input()
+print("获取的内容：",a)
+b=input("qinshuru:")
+print(b)
+a=input("请输入a：")
+b=input("请输入b：")
+print("结果：",a+b)
