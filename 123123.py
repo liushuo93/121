@@ -12,12 +12,12 @@
 # a=[1212,31232,"哈哈","哈哈",True,False]
 
 # a.append("dhsjadhkashdk")
-# a.insert(0,"dadhajkdakdadshaskdad")
-# print(a)
-# b=[31312,4342,"fsdfsdf",'erw','y65y5g']
-# a.extend(b)
-# print(a)
-# a.remove(4342)
+a.insert(0,"dadhajkdakdadshaskdad")
+print(a)
+b=[31312,4342,"fsdfsdf",'erw','y65y5g']
+a.extend(b)
+print(a)
+a.remove(4342)
 # print(a)
 # a={"name":"张三",0:'232',321:'qwew'}
 # print(a['name'])
