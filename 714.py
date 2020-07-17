@@ -68,13 +68,13 @@
 
 
 
-# for j in range(5):
-#     for i in range(30):
-#         print('距离红灯结束还有',30-i,'秒')
-#     for i in range(35):
-#         print('距离绿灯结束还有',35-i,'秒')
-#     for i in range(5):
-#         print('距离黄灯结束还有',5-i,'秒')
+for j in range(5):
+    for i in range(30):
+        print('距离红灯结束还有',30-i,'秒')
+    for i in range(35):
+        print('距离绿灯结束还有',35-i,'秒')
+    for i in range(5):
+        print('距离黄灯结束还有',5-i,'秒')
 
 
 
