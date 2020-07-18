@@ -29,3 +29,47 @@
 # for i in light:
 #     for j in range(light[i]):
 #         print('距离',i,'结束还有',light[i]-j,'秒')
+
+
+# for i in range(10):
+#     if i==4:
+#         break
+#     print(i)
+
+# def checkname(username):
+
+# def plus(a,b):
+#     '''
+#     实现两个数字相加
+#     '''
+#     if type(a) is int and type(b) is int:
+#         # print(a+b)
+#         return a+b
+#     else:
+#         # print('输入的数据类型不正确')
+#         return '输入的数据类型不正确'
+# x=int(input())
+# y=int(input())
+# print(plus(x,y))
+
+
+
+# 异常类hui
+# try:
+#     print(1+s32)
+# except Exception as e:
+#     print('上面的代码错了',e)
+
+
+
+# import time
+# for i in range(10):
+#     time.sleep(1)
+#     print(i)
+
+
+# import random
+# a=random.randint(12,3244)
+# print(a)
+
+
