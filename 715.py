@@ -72,5 +72,18 @@
 # a=random.randint(12,3244)
 # print(a)
 
-import pymysql
+# import pymysql
 
+def judge(username,password):
+ 
+    if len(username)<5 or len(username)>8:
+        return('false')
+    elif username[0] not in 'qwertyuiopasdfghjklzxcvbnm':
+        return('false')
+    elif len(password)<6 or len(password)>12:
+        return('false')
+    else:
+        return('correct')
+username1=input('请输入账号:')
+password1=input('请输入密码:')
+print(judge(username1,password1))
