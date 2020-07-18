@@ -68,8 +68,8 @@
 #     print(i)
 
 
-# import random
-# a=random.randint(12,3244)
-# print(a)
+import random
+a=random.randint(12,3244)
+print(a)
 
 
